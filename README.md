@@ -19,7 +19,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 
 let's connect on 𝕏 [(Twitter)](https://twitter.com/harshNarain55) and [LinkedIn](https://www.linkedin.com/in/harsh-t30/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Harsh_Tiwari?style=social)](https://twitter.com/harshNarain55) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/harsh-t30/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Harsh_Tiwari?style=social)](https://twitter.com/harshNarain55) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=HarshTiwari&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/harsh-t30/)
 
 
 <p align="center">
